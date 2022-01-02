@@ -17,6 +17,7 @@ At the beginning of my Data Science career, it was really not easy for me to cre
 
 ### Small example of how the same data can differ in presentation.
 
+<p>
 Before:
 <br />
 <img align="left" alt="Data-Visualization-Before" width="500px" src="Before-Data-visualization.png" />
@@ -27,7 +28,7 @@ After:
 <br />
 <img align="left" alt="Data-Visualization-After" width="500px" src="After-Data-visualization.png" />
 
-<br />
+</p>
 
 ### Keep improving and help others by sharing your knowledge.
 Join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).

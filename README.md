@@ -12,8 +12,10 @@
 - 📫 Just send an [email](mailto:Robin.Bogon@gmx.net)
 
 I'm very curious, and data science helps me understand things better.
-<b>But keeping the results to myself is boring after all.</b> Therefore, I use my design skills and create diagrams and presentations that quickly provide clarity and inform others.
-At the beginning of my Data Science career, it was really not easy for me to create effective diagrams directly in Python. But eventually, I've created a process that allows me to significantly reduce the time between analysis and shared insights.
+<br />
+At the beginning of my Data Science career, it was really not easy for me to create effective diagrams directly in Python. That's a skill you don't learn in a computer science degree.
+<br />
+<b>But keeping the results to myself is boring after all.</b> Therefore, I created a process that allowed me to significantly reduce the time between analyses and shared insights.
 
 #### Small example of how the same data can differ in presentation.
 

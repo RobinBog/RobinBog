@@ -25,7 +25,7 @@ Before:
 
 After:
 <br />
-<img align="right" alt="Data-Visualization-After" width="350px" src="After-Data-visualization.png" />
+<img align="left" alt="Data-Visualization-After" width="500px" src="After-Data-visualization.png" />
 
 <br />
 

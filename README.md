@@ -13,7 +13,6 @@
 <br />
 
 ## Data Scientist with a passion for visualization
-
 I'm very curious, and data science helps me understand things better.
 <br />
 At the beginning of my Data Science career, it was really not easy for me to create effective diagrams directly in Python. That's a skill you don't learn in a computer science degree.
@@ -26,18 +25,12 @@ At the beginning of my Data Science career, it was really not easy for me to cre
 <img alt="Data-Visualization-Before" width="500px" src="Before-Data-visualization.png" />
 
 ##### After:
-<br />
 <img alt="Data-Visualization-After" width="500px" src="After-Data-visualization.png" />
 
 <br />
 
 Can you see the difference?
-If I can help you in any way, just write to me!
 
-#### Keep improving and help others by sharing your knowledge.
-Join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).
+#### If I can help you in any way, just write to me!
+And if you are interested in data and presenting insights, feel free to join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).
 
-<br />
-
-And otherwise:
-Write me if you want to chat about data, careers, or your vegetable garden.

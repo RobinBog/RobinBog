@@ -1,4 +1,4 @@
 - 👋🏼 Hi, I’m @RobinBog
 - 👀 I’m the data-loving nature boy 🌱
-- 💞️ I am looking for cooperation in projects and start-ups that are committed to nature and the environment.
+- 💞️ I am looking for cooperation in projects that are committed to nature and the environment.
 - 📫 Just send an message to: Robin.Bogon@gmx.net

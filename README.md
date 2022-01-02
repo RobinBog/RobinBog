@@ -16,12 +16,23 @@ But keeping the results to myself is boring after all. Therefore, I use my desig
 At the beginning of my Data Science career, it was really not easy for me to create effective diagrams directly in Python. But eventually, I've created a process that allows me to significantly reduce the time between analysis and shared insights.
 
 ### Small example of how the same data can differ in presentation.
+
 Before:
-<img align="left" alt="Data-Visualization-Before" width="350px" src="Before-Data-visualization.png" />
+<br />
+<img align="left" alt="Data-Visualization-Before" width="500px" src="Before-Data-visualization.png" />
+
+<br />
+
 After:
+<br />
 <img align="right" alt="Data-Visualization-After" width="350px" src="After-Data-visualization.png" />
 
-Keep improving and help others by sharing your knowledge. Join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).
+<br />
+
+### Keep improving and help others by sharing your knowledge.
+Join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).
+
+<br />
 
 And otherwise:
 Write me if you want to chat about data, careers, or your vegetable garden.

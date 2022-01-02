@@ -10,6 +10,7 @@
 - 💞️ I am looking for cooperation in projects that are committed to nature and the environment.
 - 📫 Just send an [email](mailto:Robin.Bogon@gmx.net)
 
+<br />
 
 ## Data Scientist with a passion for visualization
 

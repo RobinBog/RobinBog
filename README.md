@@ -10,6 +10,9 @@
 - 💞️ I am looking for cooperation in projects that are committed to nature and the environment.
 - 📫 Just send an [email](mailto:Robin.Bogon@gmx.net)
 
+
+## Data Scientist with a passion for visualization
+
 I'm very curious, and data science helps me understand things better.
 <br />
 At the beginning of my Data Science career, it was really not easy for me to create effective diagrams directly in Python. That's a skill you don't learn in a computer science degree.

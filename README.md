@@ -1,12 +1,11 @@
 ### <img src="waving-hand.gif" width="25"/> Gude (as we say in Mainz, Germany),
 
-<a href="https://www.linkedin.com/in/robinbogon/">
+<br />
+
+- 👋🏼 Hi, I’m @RobinBog <a href="https://www.linkedin.com/in/robinbogon/">
   <img align="left" alt="Robins Linkedin" width="22px" src="ln.png" />
 </a>
 
-<br />
-
-- 👋🏼 Hi, I’m @RobinBog
 - 👀 I’m the data-loving nature boy 🌱
 - 💞️ I am looking for cooperation in projects that are committed to nature and the environment.
 - 📫 Just send an [email](mailto:Robin.Bogon@gmx.net)

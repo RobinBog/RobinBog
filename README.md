@@ -29,6 +29,10 @@ At the beginning of my Data Science career, it was really not easy for me to cre
 <br />
 <img alt="Data-Visualization-After" width="500px" src="After-Data-visualization.png" />
 
+<br />
+
+Can you see the difference?
+If I can help you in any way, just write to me!
 
 #### Keep improving and help others by sharing your knowledge.
 Join our [Data Translator Linkedin community](https://www.linkedin.com/groups/12567001/).
